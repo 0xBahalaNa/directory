@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs?content=true"
 role_url: "https://boards.greenhouse.io/cloudflare/jobs/8077641?gh_jid=8077641"
 apply_url: "https://boards.greenhouse.io/cloudflare/jobs/8077641?gh_jid=8077641"
-posted_date: "2026-08-14"
-expires_date: "2026-09-13"
+posted_date: "2026-08-24"
+expires_date: "2026-09-23"
 location: "Distributed"
 work_modes:
   - "Remote"
@@ -32,11 +32,9 @@ compensation: ""
 summary: "About Us At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other..."
 ---
 
-<div class="content-intro"><div><strong>About Us</strong></div>
-<div>
-<p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&nbsp;</p>
-<p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a "normalized" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p>
-</div></div><p><strong>Available Location - </strong>Canada; Remote</p>
+<div class="content-intro"><h3>About Us</h3>
+<p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.</p>
+<p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a "normalized" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p></div><p><strong>Available Location - </strong>Canada; Remote</p>
 <p><strong>Job Title - </strong>Senior Security Compliance Specialist</p>
 <p><strong>The Team</strong></p>
 <p>Security Compliance is a critical business function at Cloudflare. Compliance certifications allow our customers to be confident in the security and privacy of our products, while also providing frameworks for well-tuned information security management systems and programs. These standards provide clarity to Cloudflare’s teams on how to incorporate security principles in the management of systems, the development of products, and the expansion of our business footprint.</p>
@@ -64,7 +62,7 @@ summary: "About Us At Cloudflare, we are on a mission to help build a better Int
 <li>Ability to work efficiently and independently in a fast-paced, high-volume environment</li>
 <li>Willingness to travel occasionally to engage with regulators and auditors</li>
 </ul>
-<p><br><br></p><div class="content-conclusion"><p><strong>What Makes Cloudflare Special?</strong></p>
+<p><br><br></p><div class="content-conclusion"><h3>What Makes Cloudflare Special?</h3>
 <p><span style="font-weight: 400;">We’re not just a highly ambitious, large-scale technology company. We’re a highly ambitious, large-scale technology company with a soul. Fundamental to our mission to help build a better Internet is protecting the free and open Internet.</span></p>
 <p><a href="https://blog.cloudflare.com/protecting-free-expression-online/"><strong>Project Galileo</strong></a><span style="font-weight: 400;">: Since 2014, we've equipped more than 2,400 journalism and civil society organizations in 111 countries with powerful tools to defend themselves against attacks that would otherwise censor their work, technology already used by Cloudflare’s enterprise customers--at no cost.</span></p>
 <p><strong><a href="https://www.cloudflare.com/athenian/">Athenian Project</a></strong><span style="font-weight: 400;">: In 2017, we created the Athenian Project to ensure that state and local governments have the highest level of protection and reliability for free, so that their constituents have access to election information and voter registration. Since the project, we've provided services to more than 425 local government election websites in 33 states.</span></p>
