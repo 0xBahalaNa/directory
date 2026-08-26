@@ -120,4 +120,4 @@ As a member of the RainFocus team, you will have the opportunity to experience f
 
 What are you waiting for? Apply today! We need more talented, hard-working, fun-loving team members just like yourself!
 
-Please mention the word **INSIGHTFULLY** and tag RMjAuMjkuNTMuMjA= when applying to show you read the job post completely (#RMjAuMjkuNTMuMjA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+Please mention the word **INSIGHTFULLY** and tag RNDguMjE0LjU0LjEwMQ== when applying to show you read the job post completely (#RNDguMjE0LjU0LjEwMQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
