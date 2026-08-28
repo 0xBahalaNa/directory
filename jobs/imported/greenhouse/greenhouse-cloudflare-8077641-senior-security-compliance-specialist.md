@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs?content=true"
 role_url: "https://boards.greenhouse.io/cloudflare/jobs/8077641?gh_jid=8077641"
 apply_url: "https://boards.greenhouse.io/cloudflare/jobs/8077641?gh_jid=8077641"
-posted_date: "2026-08-27"
-expires_date: "2026-09-26"
+posted_date: "2026-08-28"
+expires_date: "2026-09-27"
 location: "Distributed"
 work_modes:
   - "Remote"
@@ -28,7 +28,7 @@ frameworks:
   - "HITRUST"
 languages:
   - "Rust"
-compensation: ""
+compensation: "$109,000 - $150,000"
 summary: "About Us At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other..."
 ---
 
@@ -61,6 +61,19 @@ summary: "About Us At Cloudflare, we are on a mission to help build a better Int
 <li>Ability to work closely with auditors and articulate technical concepts</li>
 <li>Ability to work efficiently and independently in a fast-paced, high-volume environment</li>
 <li>Willingness to travel occasionally to engage with regulators and auditors</li>
+</ul>
+<p></p>
+<h3 data-path-to-node="0"><strong data-path-to-node="0" data-index-in-node="0">Compensation</strong></h3>
+<ul data-path-to-node="1">
+<li>
+<p data-path-to-node="1,0,0">For Toronto based hires: Estimated annual salary is between CAD $109,000 - $150,000.</p>
+</li>
+</ul>
+<h3 data-path-to-node="2"><strong data-path-to-node="2" data-index-in-node="0">Equity</strong></h3>
+<ul data-path-to-node="3">
+<li>
+<p data-path-to-node="3,0,0">This role is eligible to participate in Cloudflare's equity plan.</p>
+</li>
 </ul>
 <p><br><br></p><div class="content-conclusion"><h3>What Makes Cloudflare Special?</h3>
 <p><span style="font-weight: 400;">We’re not just a highly ambitious, large-scale technology company. We’re a highly ambitious, large-scale technology company with a soul. Fundamental to our mission to help build a better Internet is protecting the free and open Internet.</span></p>
