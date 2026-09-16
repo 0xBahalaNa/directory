@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs?content=true"
 role_url: "https://boards.greenhouse.io/cloudflare/jobs/8045914?gh_jid=8045914"
 apply_url: "https://boards.greenhouse.io/cloudflare/jobs/8045914?gh_jid=8045914"
-posted_date: "2026-09-04"
-expires_date: "2026-10-04"
+posted_date: "2026-09-16"
+expires_date: "2026-10-16"
 location: "Hybrid"
 work_modes:
   - "Remote"
@@ -62,6 +62,12 @@ summary: "About Us At Cloudflare, we are on a mission to help build a better Int
 <li><strong>Community &amp; Passion:</strong> Demonstrated passion for security and software development, such as personal projects, open-source contributions, or active participation in the security research community.</li>
 <li><strong>Cloudflare Native:</strong> You’ve built something with our developer platform using our products (e.g., <strong>Cloudflare Workers, R2, D1, or Workers AI</strong>). You understand our ecosystem because you’ve used it.</li>
 </ul>
+<p><strong>Compensation</strong></p>
+<p>Compensation may be adjusted depending on work location.</p>
+<ul>
+<li><span data-sheets-root="1">For Portugal based hires: Estimated annual salary of €52,000 - €72<span class="cell-value">,000</span></span></li>
+</ul>
+<p><span data-sheets-root="1"><span class="cell-value">The final offer will be inclusive of time exemption, in alignment with the applicable law and collective bargaining agreements.</span></span></p>
 <p><strong>Equity</strong></p>
 <p>This role is eligible to participate in Cloudflare’s equity plan.</p>
 <p><strong>Benefits</strong></p>
