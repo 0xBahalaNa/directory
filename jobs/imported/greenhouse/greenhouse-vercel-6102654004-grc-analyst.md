@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/vercel/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/vercel/jobs/6102654004"
 apply_url: "https://job-boards.greenhouse.io/vercel/jobs/6102654004"
-posted_date: "2026-09-22"
-expires_date: "2026-10-22"
+posted_date: "2026-09-25"
+expires_date: "2026-10-25"
 location: "Remote - United States"
 work_modes:
   - "Remote"
@@ -61,7 +61,7 @@ summary: "About Vercel: Vercel is the agentic infrastructure company, freeing pe
 <li>Experience with frontend development and open source components</li>
 <li>Relevant industry certifications (i.e., CISM, CISSP, CCEP) are a plus, but not required</li>
 </ul>
-<h2><strong>Benefits:</strong></h2>
+<h2><strong>Compensation &amp; Benefits:</strong></h2>
 <ul>
 <li>Competitive compensation package, including equity.</li>
 <li>Inclusive Healthcare Package.</li>
@@ -71,4 +71,8 @@ summary: "About Vercel: Vercel is the agentic infrastructure company, freeing pe
 </ul>
 <p>The San Francisco, CA base pay range for this role is $134,000-$202,000. Actual salary will be based on job-related skills, experience, and location. Compensation outside of San Francisco may be adjusted based on employee location. The total compensation package may include benefits, equity-based compensation, and eligibility for a company bonus or variable pay program depending on the role. Your recruiter can share more details during the hiring process.</p>
 <p>&nbsp;</p>
-<div id="te-floating-button-container"></div>
+<div id="te-floating-button-container"></div><div class="content-conclusion"><h2><strong>Disclosures:</strong></h2>
+<ul>
+<li><strong>Privacy: </strong>Please review our J<span style="text-decoration: underline;">ob Applicant Privacy Policy</span> for more information on how we handle your data.</li>
+<li><strong>Equal Opportunity:&nbsp;</strong>Vercel is committed to fostering and empowering an inclusive community within our organization. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Vercel encourages everyone to apply for our available positions, even if they don't necessarily check every box on the job description.</li>
+</ul></div>
