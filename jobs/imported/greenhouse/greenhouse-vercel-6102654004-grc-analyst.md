@@ -73,6 +73,6 @@ summary: "About Vercel: Vercel is the agentic infrastructure company, freeing pe
 <p>&nbsp;</p>
 <div id="te-floating-button-container"></div><div class="content-conclusion"><h2><strong>Disclosures:</strong></h2>
 <ul>
-<li><strong>Privacy: </strong>Please review our J<span style="text-decoration: underline;">ob Applicant Privacy Policy</span> for more information on how we handle your data.</li>
+<li><strong>Privacy: </strong>Please review our <span style="text-decoration: underline;"><a href="https://vercel.com/legal/job-applicant-privacy-notice">Job Applicant Privacy Policy</a></span> for more information on how we handle your data.</li>
 <li><strong>Equal Opportunity:&nbsp;</strong>Vercel is committed to fostering and empowering an inclusive community within our organization. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Vercel encourages everyone to apply for our available positions, even if they don't necessarily check every box on the job description.</li>
 </ul></div>

@@ -1,73 +1,69 @@
 ---
-title: "GRC Engineer"
+title: "Sr. Technical Program Manager - Security Compliance"
 company: "Cloudflare"
-slug: "greenhouse-cloudflare-8045914-grc-engineer"
+slug: "greenhouse-cloudflare-8248873-sr-technical-program-manager-security-compliance"
 status: "published"
 source: "Greenhouse"
 sources:
   - "Greenhouse"
 source_url: "https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs?content=true"
-role_url: "https://boards.greenhouse.io/cloudflare/jobs/8045914?gh_jid=8045914"
-apply_url: "https://boards.greenhouse.io/cloudflare/jobs/8045914?gh_jid=8045914"
+role_url: "https://boards.greenhouse.io/cloudflare/jobs/8248873?gh_jid=8248873"
+apply_url: "https://boards.greenhouse.io/cloudflare/jobs/8248873?gh_jid=8248873"
 posted_date: "2026-10-02"
 expires_date: "2026-11-01"
 location: "Hybrid"
 work_modes:
-  - "Remote"
+  - "Hybrid / On-site"
 job_types:
   - "Full-time"
 specializations:
   - "Compliance Automation"
   - "Risk Management"
   - "Security Governance"
-  - "Audit & Assurance"
+  - "Cloud Security"
 frameworks:
   - "FedRAMP"
-  - "SOC 2"
-  - "ISO 27001"
-  - "PCI-DSS"
-languages:
-  - "Python"
-  - "Terraform"
-  - "OPA/Rego"
-  - "JavaScript"
+  - "NIST 800-53"
+languages: []
 compensation: ""
 summary: "About Us At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other..."
 ---
 
 <div class="content-intro"><h3>About Us</h3>
 <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.</p>
-<p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a "normalized" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p></div><p><strong>Available Locations:&nbsp;</strong>Austin, TX (US), London (UK), Lisbon (Portugal)</p>
-<p><strong>About the role</strong></p>
-<p>Security is at the heart of Cloudflare’s mission to help build a better Internet. Anytime we push code, it automatically affects the millions of Internet properties (powering websites, remote teams, APIs, mobile apps, etc.) running on our global network. Cloudflare's network is one of the largest in the world, spanning over 330 cities in more than 125 countries, and operating within 50 milliseconds of 95% of the Internet-connected population.</p>
-<p>The Security Governance, Risk and Compliance team (GRC) is a sub-team of Security. Our job is to make sure that Cloudflare has the right controls in place to secure our systems and customer data. We work cross-functionally with almost every team at Cloudflare to implement new controls, manage risk, and demonstrate our security posture to auditors and customers.</p>
-<h4><strong>What you'll do</strong></h4>
+<p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a "normalized" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p></div><p><strong>Available Locations:&nbsp;</strong>Austin,TX</p>
+<p><strong>About the Department</strong></p>
+<p>Security at Cloudflare is a diverse, focused team committed to helping secure both Cloudflare and our customers. The Security Technical Program Management team sits at the intersection of engineering, security, and business. We define, align, and drive the strategic security programs that reduce risk and advance innovation across Cloudflare, while partnering to build the best solutions for our customers.</p>
+<p><strong>About the Role</strong></p>
+<p>Cloudflare is seeking a highly skilled, self-motivated Senior Technical Program Manager to lead the company’s strategic Governance, Risk, and Compliance program, initially focused on the Department of Defense Impact Level 4 (IL4) initiative.&nbsp;</p>
+<p>As a Technical Program Manager focused on Governance, Risk, and Compliance, you will define, align, and drive complex security and compliance programs that reduce risk and enable Cloudflare’s regulated business. You will manage stakeholder expectations, proactively identify risks and dependencies, and ensure the delivery of predictable, high-impact outcomes.</p>
+<p>The ideal candidate is process-oriented yet remains flexible and iterative. You excel at navigating ambiguous technical challenges, fostering collaboration across teams, and asking the insightful questions necessary to drive stakeholders toward measurable results. This position requires a professional capable of managing complex tradeoffs and coordinating teams across global time zones.</p>
+<p><strong>Key Responsibilities</strong></p>
 <ul>
-<li><strong>Automation &amp; Engineering:</strong> Develop and implement automated solutions to improve GRC processes and operations, integrating with existing security, engineering, and AI tools. You will build modules and maintain our GRC platform and other similar initiatives.</li>
-<li><strong>AI Governance:</strong> Architect and maintain a technical governance framework for the safe deployment of autonomous AI agents. This includes ensuring that agentic workflows operate within deterministic "action gates" and predefined risk thresholds.</li>
-<li><strong>Audit &amp; Infrastructure:</strong> Support Cloudflare’s security assessments (e.g., SOC 2, ISO 27001, PCI DSS, FedRAMP). You will treat "Audit Readiness" as a product, ensuring our global edge network remains compliant through automated drift detection and self-healing configurations.</li>
-<li><strong>Security Integration:</strong> Work cross-functionally with Legal, People, Engineering, and Finance teams to integrate security into the fabric of the company, moving away from "gatekeeping" toward a paved-road security model where compliance is the default state for every developer.</li>
+<li>Partner with the Governance, Risk, and Compliance team as its dedicated Technical Program Manager</li>
+<li>Lead the integrated IL4 roadmap, milestones, dependencies, and execution cadence</li>
+<li>Connect with stakeholders through expert communication and diplomacy to maintain alignment and encourage collaboration</li>
+<li>Establish and maintain a program operating cadence: roadmap, governance forums, decision log, risk/issue register, communications plan, and executive reporting</li>
+<li>Build automations and AI agents to handle routine program administration at scale</li>
+<li>Utilize AI platforms to consolidate diverse project streams into unified roadmaps, generating initial metrics, status updates, and executive reporting dashboards</li>
+<li>Navigate ambiguity and shifting priorities by identifying tradeoffs early, applying risk-based judgment, and balancing long-term compliance objectives with urgent security needs</li>
 </ul>
-<h4><strong>Desirable Skills, Knowledge, and Experience:</strong></h4>
+<p><strong>Desirable Skills and Knowledge</strong></p>
 <ul>
-<li><strong>Experience:</strong> Have 5+ years of experience in security, compliance, automation, or engineering functions in a fast-paced environment.</li>
-<li><strong>The Builder Mindset:</strong> You are a builder and enjoy building technical solutions to complex and messy problems. You’d rather write a script to solve a problem forever than manually check a box twice.</li>
-<li><strong>AI Mastery:</strong> Experience designing or implementing AI-powered automation and agentic workflows. You understand the unique risks of non-deterministic systems and how to govern them.</li>
-<li><strong>Compliance-as-Code:</strong> Deep experience with Infrastructure as Code (Terraform, Pulumi) and Policy as Code (OPA/Rego) implementation. You know how to enforce security guardrails before code is ever deployed.</li>
-<li><strong>Technical Stack:</strong> Proficient in Python, Go, or other scripting languages for automation, API interactions, and data parsing. You are comfortable working with REST APIs to glue disparate security tools together. Proven experience building modern web applications, including JavaScript/TypeScript and React, and collaborating effectively across frontend and backend boundaries.</li>
-<li><strong>The Motto:</strong> Driven by curiosity, anchored by empathy, and defined by a relentless ability to get things done. You seek to understand the "why," support your peers, and ship high-quality outcomes.</li>
+<li>8+ years of experience in technical program management, with a track record of continuous improvement</li>
+<li>Experience in cybersecurity or security program management in a technical, fast-moving environment</li>
+<li>BS in Computer Science, Information Technology, Information Security or related field or equivalent experience</li>
+<li>Proven track record of creating realistic project plans, managing dependencies, and overseeing execution to meet commitments with predictability</li>
+<li>Working knowledge of federal cybersecurity and authorization frameworks (for example, NIST SP 800-53, RMF, FedRAMP, and DoD SRGs), with the ability to translate requirements into program plans and measurable delivery</li>
+<li>Proven ability to communicate effectively with stakeholders at all levels, including executives</li>
+<li>Hands-on experience or a strong competency in leveraging AI productivity tools and development platforms to automate routine program administration, with rigorous human-in-the-loop review of AI output</li>
+<li>Comfortable managing tight deadlines, changing priorities, and ambiguity</li>
+<li>Proven ability to forge and sustain effective partnerships internally and externally</li>
+<li>Strong competency with Confluence and Jira and various development methodologies&nbsp;</li>
+<li>Embraces technology including automation and AI augmentation</li>
+<li>Experience working with multiple time zones and cross-functional teams</li>
 </ul>
-<h4><strong>Bonus Points:</strong></h4>
-<ul>
-<li><strong>Community &amp; Passion:</strong> Demonstrated passion for security and software development, such as personal projects, open-source contributions, or active participation in the security research community.</li>
-<li><strong>Cloudflare Native:</strong> You’ve built something with our developer platform using our products (e.g., <strong>Cloudflare Workers, R2, D1, or Workers AI</strong>). You understand our ecosystem because you’ve used it.</li>
-</ul>
-<p><strong>Compensation</strong></p>
-<p>Compensation may be adjusted depending on work location.</p>
-<ul>
-<li><span data-sheets-root="1">For Portugal based hires: Estimated annual salary of €52,000 - €72<span class="cell-value">,000</span></span></li>
-</ul>
-<p><span data-sheets-root="1"><span class="cell-value">The final offer will be inclusive of time exemption, in alignment with the applicable law and collective bargaining agreements.</span></span></p>
+<div>
 <p><strong>Equity</strong></p>
 <p>This role is eligible to participate in Cloudflare’s equity plan.</p>
 <p><strong>Benefits</strong></p>
@@ -94,7 +90,8 @@ summary: "About Us At Cloudflare, we are on a mission to help build a better Int
 <ul>
 <li>Flexible paid time off covering vacation and sick leave</li>
 <li>Leave programs, including parental, pregnancy health, medical, and bereavement leave</li>
-</ul><div class="content-conclusion"><h3>What Makes Cloudflare Special?</h3>
+</ul>
+</div><div class="content-conclusion"><h3>What Makes Cloudflare Special?</h3>
 <p><span style="font-weight: 400;">We’re not just a highly ambitious, large-scale technology company. We’re a highly ambitious, large-scale technology company with a soul. Fundamental to our mission to help build a better Internet is protecting the free and open Internet.</span></p>
 <p><a href="https://blog.cloudflare.com/protecting-free-expression-online/"><strong>Project Galileo</strong></a><span style="font-weight: 400;">: Since 2014, we've equipped more than 2,400 journalism and civil society organizations in 111 countries with powerful tools to defend themselves against attacks that would otherwise censor their work, technology already used by Cloudflare’s enterprise customers--at no cost.</span></p>
 <p><strong><a href="https://www.cloudflare.com/athenian/">Athenian Project</a></strong><span style="font-weight: 400;">: In 2017, we created the Athenian Project to ensure that state and local governments have the highest level of protection and reliability for free, so that their constituents have access to election information and voter registration. Since the project, we've provided services to more than 425 local government election websites in 33 states.</span></p>
