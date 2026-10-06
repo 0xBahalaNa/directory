@@ -1,7 +1,7 @@
 ---
-title: "Security Audit & Controls, Security GRC"
+title: "Controls Specialist, Security GRC "
 company: "Anthropic"
-slug: "greenhouse-anthropic-5436826008-security-audit-and-controls-security-grc"
+slug: "greenhouse-anthropic-5436826008-controls-specialist-security-grc"
 status: "published"
 source: "Greenhouse"
 sources:
@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/anthropic/jobs/5436826008"
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5436826008"
-posted_date: "2026-10-02"
-expires_date: "2026-11-01"
+posted_date: "2026-10-05"
+expires_date: "2026-11-04"
 location: "San Francisco, CA | New York City, NY | Seattle, WA"
 work_modes:
   - "Hybrid / On-site"
