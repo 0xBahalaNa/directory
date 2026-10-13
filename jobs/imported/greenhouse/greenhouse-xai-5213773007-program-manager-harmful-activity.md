@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/xai/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/xai/jobs/5213773007"
 apply_url: "https://job-boards.greenhouse.io/xai/jobs/5213773007"
-posted_date: "2026-09-30"
-expires_date: "2026-10-30"
+posted_date: "2026-10-12"
+expires_date: "2026-11-11"
 location: " Palo Alto, CA; Austin, TX; Bastrop, TX; New York, NY"
 work_modes:
   - "Hybrid / On-site"
@@ -27,8 +27,7 @@ compensation: "$110,000 - $145,000"
 summary: "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively..."
 ---
 
-<div class="content-intro"><p>SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars.&nbsp;</p>
-<p>SpaceXSI is building Super Intelligence to understand the universe and help expand humanity’s knowledge and capabilities. We work across the full Super Intelligence stack: compute (Colossus supercomputers), models (Grok), and applications (Grok Bot, Grok Build, Grok Imagine, Grok Voice, and X). We're creating a powerful flywheel where more compute trains better models, better models power more useful products, and what we learn from people using those products shapes what we build next.</p></div><h3>ABOUT THE ROLE:</h3>
+<div class="content-intro"><p>SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars.<br><br>SpaceXSI is building Super Intelligence to help humanity understand the universe. Our teams are building the full Super Intelligence stack: from our Colossus supercomputers, to Grok models, to our suite of applications, including Grok Bot, Grok Build, Grok Imagine, Grok Voice, and X. We're creating a powerful flywheel where more compute trains better models, better models power more useful products, and what we learn from people using those products shapes what we build next.</p></div><h3>ABOUT THE ROLE:</h3>
 <p>We serve our community of users and customers by working tirelessly to preserve free expression and choice, create limitless interactivity, and maintain a safe digital marketplace. The Safety Integrity Program Manager, Harmful Activity will drive priorities, measures, and system health for harmful activity, owning program standards and execution across upstream systems and downstream operations.</p>
 <p>You are an experienced program manager with a strong background in content integrity, abuse, or risk programs at scale. You are skilled at setting requirements for detection and automation, translating policy and legal constraints into practical workflows and controls, and driving cross-functional partners to improve coverage, precision, and enforcement quality. You thrive in fast-paced environments and excel at turning operational signals into lasting improvements.</p>
 <h3>RESPONSIBILITIES:</h3>
@@ -66,8 +65,8 @@ summary: "SpaceX was founded under the belief that a future where humanity is ou
 </ul>
 <h3><span style="font-family: arial, helvetica, sans-serif;"><strong>COMPENSATION AND BENEFITS:</strong></span></h3>
 <p><span style="font-family: arial, helvetica, sans-serif;">$110,000 - $145,000 USD</span></p>
-<p><span style="font-family: arial, helvetica, sans-serif;">Base salary is just one part of our total rewards package at xAI, which also includes equity, comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short &amp; long-term disability insurance, life insurance, and various other discounts and perks.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">Base salary is just one part of our total rewards package at SpaceXSI, which also includes equity, comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short &amp; long-term disability insurance, life insurance, and various other discounts and perks.</span></p>
 <h3><strong>ITAR REQUIREMENTS:</strong></h3>
 <ul>
 <li>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR&nbsp;<a href="https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&amp;sys_id=24d528fddbfc930044f9ff621f961987">here</a>.&nbsp;</li>
-</ul><div class="content-conclusion"><p><em>SpaceXAI is an equal opportunity employer. For details on data processing, view our </em><em><a href="https://x.ai/legal/recruitment-privacy-notice" target="_blank">Recruitment Privacy Notice</a>.</em></p></div>
+</ul><div class="content-conclusion"><p><em>SpaceXSI is an equal opportunity employer. For details on data processing, view our&nbsp;</em><em><a href="https://x.ai/legal/recruitment-privacy-notice" target="_blank">Recruitment Privacy Notice</a>.</em></p></div>

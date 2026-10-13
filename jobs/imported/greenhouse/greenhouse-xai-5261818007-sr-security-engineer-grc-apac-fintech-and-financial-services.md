@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/xai/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/xai/jobs/5261818007"
 apply_url: "https://job-boards.greenhouse.io/xai/jobs/5261818007"
-posted_date: "2026-10-09"
-expires_date: "2026-11-08"
+posted_date: "2026-10-12"
+expires_date: "2026-11-11"
 location: "Tokyo, Japan"
 work_modes:
   - "Hybrid / On-site"
@@ -28,8 +28,7 @@ compensation: ""
 summary: "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively..."
 ---
 
-<div class="content-intro"><p>SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars.&nbsp;</p>
-<p>SpaceXSI is building Super Intelligence to understand the universe and help expand humanity’s knowledge and capabilities. We work across the full Super Intelligence stack: compute (Colossus supercomputers), models (Grok), and applications (Grok Bot, Grok Build, Grok Imagine, Grok Voice, and X). We're creating a powerful flywheel where more compute trains better models, better models power more useful products, and what we learn from people using those products shapes what we build next.</p></div><h3 data-pm-slice="1 1 []"><span style="font-family: arial, helvetica, sans-serif;">ABOUT THE ROLE:</span></h3>
+<div class="content-intro"><p>SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars.<br><br>SpaceXSI is building Super Intelligence to help humanity understand the universe. Our teams are building the full Super Intelligence stack: from our Colossus supercomputers, to Grok models, to our suite of applications, including Grok Bot, Grok Build, Grok Imagine, Grok Voice, and X. We're creating a powerful flywheel where more compute trains better models, better models power more useful products, and what we learn from people using those products shapes what we build next.</p></div><h3 data-pm-slice="1 1 []"><span style="font-family: arial, helvetica, sans-serif;">ABOUT THE ROLE:</span></h3>
 <p><span style="font-family: arial, helvetica, sans-serif;">We are seeking an experienced Governance, Risk, and Compliance (GRC) Engineer focused on Japanese information security and financial services regulation to help scale compliance for SpaceXAI and X Money. As we expand deeper into the regulated Japanese market, maintaining a robust, transparent, and technically sound information security GRC program is critical. You will architect the systems and processes that automate trust — a pragmatic operator who understands that GRC exists to enable the business, balancing rigorous standards with the velocity of a high-growth company. The ideal candidate brings hands-on experience with JFSA supervisory expectations, APPI, and local Japanese banking and payments technology controls, plus GRC engineering skills: Compliance-as-Code, continuous evidence collection, and deep partnership with engineering so controls are designed into the platform rather than bolted on after the fact. This role may also include additional tasks and responsibilities as needed to support the team and evolving business priorities. This position may require occasional travel.</span></p>
 <h3><span style="font-family: arial, helvetica, sans-serif;">RESPONSIBILITIES:</span></h3>
 <ul>
@@ -71,4 +70,4 @@ summary: "SpaceX was founded under the belief that a future where humanity is ou
 <li>Certifications such as CISSP, CISM, CISA, CRISC, or equivalent preferred.</li>
 <li>Prior experience working with or within JFSA-supervised financial institutions, banking or payments providers, or supervised fintechs in Japan is a plus.</li>
 <li>Based in Japan; fluency in English required; Japanese language proficiency a plus.</li>
-</ul><div class="content-conclusion"><p><em>SpaceXAI is an equal opportunity employer. For details on data processing, view our </em><em><a href="https://x.ai/legal/recruitment-privacy-notice" target="_blank">Recruitment Privacy Notice</a>.</em></p></div>
+</ul><div class="content-conclusion"><p><em>SpaceXSI is an equal opportunity employer. For details on data processing, view our&nbsp;</em><em><a href="https://x.ai/legal/recruitment-privacy-notice" target="_blank">Recruitment Privacy Notice</a>.</em></p></div>
