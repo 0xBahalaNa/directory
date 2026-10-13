@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/xai/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/xai/jobs/5261818007"
 apply_url: "https://job-boards.greenhouse.io/xai/jobs/5261818007"
-posted_date: "2026-10-09"
-expires_date: "2026-11-08"
+posted_date: "2026-10-12"
+expires_date: "2026-11-11"
 location: "Tokyo, Japan"
 work_modes:
   - "Hybrid / On-site"
@@ -71,4 +71,4 @@ summary: "SpaceX was founded under the belief that a future where humanity is ou
 &lt;li&gt;Certifications such as CISSP, CISM, CISA, CRISC, or equivalent preferred.&lt;/li&gt;
 &lt;li&gt;Prior experience working with or within JFSA-supervised financial institutions, banking or payments providers, or supervised fintechs in Japan is a plus.&lt;/li&gt;
 &lt;li&gt;Based in Japan; fluency in English required; Japanese language proficiency a plus.&lt;/li&gt;
-&lt;/ul&gt;&lt;div class="content-conclusion"&gt;&lt;p&gt;&lt;em&gt;SpaceXAI is an equal opportunity employer. For details on data processing, view our &lt;/em&gt;&lt;em&gt;&lt;a href="https://x.ai/legal/recruitment-privacy-notice" target="_blank"&gt;Recruitment Privacy Notice&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;/ul&gt;&lt;div class="content-conclusion"&gt;&lt;p&gt;&lt;em&gt;SpaceXSI is an equal opportunity employer. For details on data processing, view our&nbsp;&lt;/em&gt;&lt;em&gt;&lt;a href="https://x.ai/legal/recruitment-privacy-notice" target="_blank"&gt;Recruitment Privacy Notice&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;

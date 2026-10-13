@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/xai/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/xai/jobs/5213773007"
 apply_url: "https://job-boards.greenhouse.io/xai/jobs/5213773007"
-posted_date: "2026-09-30"
-expires_date: "2026-10-30"
+posted_date: "2026-10-12"
+expires_date: "2026-11-11"
 location: " Palo Alto, CA; Austin, TX; Bastrop, TX; New York, NY"
 work_modes:
   - "Hybrid / On-site"
@@ -66,8 +66,8 @@ summary: "SpaceX was founded under the belief that a future where humanity is ou
 &lt;/ul&gt;
 &lt;h3&gt;&lt;span style="font-family: arial, helvetica, sans-serif;"&gt;&lt;strong&gt;COMPENSATION AND BENEFITS:&lt;/strong&gt;&lt;/span&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;span style="font-family: arial, helvetica, sans-serif;"&gt;$110,000 - $145,000 USD&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="font-family: arial, helvetica, sans-serif;"&gt;Base salary is just one part of our total rewards package at xAI, which also includes equity, comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short &amp; long-term disability insurance, life insurance, and various other discounts and perks.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: arial, helvetica, sans-serif;"&gt;Base salary is just one part of our total rewards package at SpaceXSI, which also includes equity, comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short &amp; long-term disability insurance, life insurance, and various other discounts and perks.&lt;/span&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;strong&gt;ITAR REQUIREMENTS:&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR&nbsp;&lt;a href="https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&amp;sys_id=24d528fddbfc930044f9ff621f961987"&gt;here&lt;/a&gt;.&nbsp;&lt;/li&gt;
-&lt;/ul&gt;&lt;div class="content-conclusion"&gt;&lt;p&gt;&lt;em&gt;SpaceXAI is an equal opportunity employer. For details on data processing, view our &lt;/em&gt;&lt;em&gt;&lt;a href="https://x.ai/legal/recruitment-privacy-notice" target="_blank"&gt;Recruitment Privacy Notice&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;/ul&gt;&lt;div class="content-conclusion"&gt;&lt;p&gt;&lt;em&gt;SpaceXSI is an equal opportunity employer. For details on data processing, view our&nbsp;&lt;/em&gt;&lt;em&gt;&lt;a href="https://x.ai/legal/recruitment-privacy-notice" target="_blank"&gt;Recruitment Privacy Notice&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;

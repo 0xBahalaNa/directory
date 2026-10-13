@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/xai/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/xai/jobs/5007261007"
 apply_url: "https://job-boards.greenhouse.io/xai/jobs/5007261007"
-posted_date: "2026-09-30"
-expires_date: "2026-10-30"
+posted_date: "2026-10-12"
+expires_date: "2026-11-11"
 location: " Palo Alto, CA; New York, NY; Washington, DC"
 work_modes:
   - "Hybrid / On-site"
@@ -34,7 +34,7 @@ summary: "SpaceX was founded under the belief that a future where humanity is ou
 
 &lt;div class="content-intro"&gt;&lt;p&gt;SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars.&nbsp;&lt;/p&gt;
 &lt;p&gt;SpaceXSI is building Super Intelligence to understand the universe and help expand humanity’s knowledge and capabilities. We work across the full Super Intelligence stack: compute (Colossus supercomputers), models (Grok), and applications (Grok Bot, Grok Build, Grok Imagine, Grok Voice, and X). We're creating a powerful flywheel where more compute trains better models, better models power more useful products, and what we learn from people using those products shapes what we build next.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;ABOUT THE ROLE:&lt;/strong&gt;&lt;/h3&gt;
-&lt;div&gt;We are seeking an experienced Governance, Risk, and Compliance (GRC) Engineer to own and scale our security and AI governance compliance posture as SpaceXAI grows. You will set the standards the organization builds to, design and implement controls, and automate the unglamorous parts of compliance so a fast-moving team can ship safely. The ideal candidate combines deep fluency across modern security and AI frameworks with GRC engineering skills: you translate control requirements into technical implementations, partner with engineers to bake compliance into architecture and CI/CD, and replace point-in-time checklist work with continuous, engineered assurance. You will collaborate across engineering, legal, product, and leadership to keep our AI systems audit-ready across enterprise, commercial, and public-sector environments.&lt;/div&gt;
+&lt;div&gt;We are seeking an experienced Governance, Risk, and Compliance (GRC) Engineer to own and scale our security and AI governance compliance posture as SpaceXSI grows. You will set the standards the organization builds to, design and implement controls, and automate the unglamorous parts of compliance so a fast-moving team can ship safely. The ideal candidate combines deep fluency across modern security and AI frameworks with GRC engineering skills: you translate control requirements into technical implementations, partner with engineers to bake compliance into architecture and CI/CD, and replace point-in-time checklist work with continuous, engineered assurance. You will collaborate across engineering, legal, product, and leadership to keep our AI systems audit-ready across enterprise, commercial, and public-sector environments.&lt;/div&gt;
 &lt;div&gt;&nbsp;&lt;/div&gt;
 &lt;div&gt;&lt;em&gt;This role may also include additional tasks and responsibilities as needed to support the team and evolving business priorities.&lt;/em&gt;&lt;/div&gt;
 &lt;h3&gt;&lt;strong&gt;RESPONSIBILITIES:&lt;/strong&gt;&lt;/h3&gt;
@@ -74,8 +74,8 @@ summary: "SpaceX was founded under the belief that a future where humanity is ou
 &lt;/ul&gt;
 &lt;h3&gt;&lt;strong&gt;COMPENSATION AND BENEFITS:&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;span style="font-weight: 400;"&gt;$152,000 - $258,000 USD&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Base salary is just one part of our total rewards package at SpaceXAI, which also includes equity, comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short &amp; long-term disability insurance, life insurance, and various other discounts and perks.&lt;/p&gt;
+&lt;p&gt;Base salary is just one part of our total rewards package at SpaceXSI, which also includes equity, comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short &amp; long-term disability insurance, life insurance, and various other discounts and perks.&lt;/p&gt;
 &lt;h3&gt;ITAR REQUIREMENTS:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR &lt;a class="discussion-id-36164de2-197a-8070-84b2-001c900d71fe notion-link-token notion-focusable-token notion-enable-hover" href="https://deccs.pmddtc.state.gov/deccs" data-token-index="1"&gt;&lt;span class="link-annotation-unknown-block-id--1213793699"&gt;here&lt;/span&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;div class="content-conclusion"&gt;&lt;p&gt;&lt;em&gt;SpaceXAI is an equal opportunity employer. For details on data processing, view our &lt;/em&gt;&lt;em&gt;&lt;a href="https://x.ai/legal/recruitment-privacy-notice" target="_blank"&gt;Recruitment Privacy Notice&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;/ul&gt;&lt;div class="content-conclusion"&gt;&lt;p&gt;&lt;em&gt;SpaceXSI is an equal opportunity employer. For details on data processing, view our&nbsp;&lt;/em&gt;&lt;em&gt;&lt;a href="https://x.ai/legal/recruitment-privacy-notice" target="_blank"&gt;Recruitment Privacy Notice&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
