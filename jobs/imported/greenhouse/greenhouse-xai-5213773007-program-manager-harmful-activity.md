@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/xai/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/xai/jobs/5213773007"
 apply_url: "https://job-boards.greenhouse.io/xai/jobs/5213773007"
-posted_date: "2026-10-12"
-expires_date: "2026-11-11"
+posted_date: "2026-10-14"
+expires_date: "2026-11-13"
 location: " Palo Alto, CA; Austin, TX; Bastrop, TX; New York, NY"
 work_modes:
   - "Hybrid / On-site"
@@ -27,8 +27,7 @@ compensation: "$110,000 - $145,000"
 summary: "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively..."
 ---
 
-&lt;div class="content-intro"&gt;&lt;p&gt;SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars.&nbsp;&lt;/p&gt;
-&lt;p&gt;SpaceXSI is building Super Intelligence to understand the universe and help expand humanity’s knowledge and capabilities. We work across the full Super Intelligence stack: compute (Colossus supercomputers), models (Grok), and applications (Grok Bot, Grok Build, Grok Imagine, Grok Voice, and X). We're creating a powerful flywheel where more compute trains better models, better models power more useful products, and what we learn from people using those products shapes what we build next.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;ABOUT THE ROLE:&lt;/h3&gt;
+&lt;div class="content-intro"&gt;&lt;p&gt;SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars.&lt;br&gt;&lt;br&gt;SpaceXSI is building Super Intelligence to help humanity understand the universe. Our teams are building the full Super Intelligence stack: from our Colossus supercomputers, to Grok models, to our suite of applications, including Grok Bot, Grok Build, Grok Imagine, Grok Voice, and X. We're creating a powerful flywheel where more compute trains better models, better models power more useful products, and what we learn from people using those products shapes what we build next.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;ABOUT THE ROLE:&lt;/h3&gt;
 &lt;p&gt;We serve our community of users and customers by working tirelessly to preserve free expression and choice, create limitless interactivity, and maintain a safe digital marketplace. The Safety Integrity Program Manager, Harmful Activity will drive priorities, measures, and system health for harmful activity, owning program standards and execution across upstream systems and downstream operations.&lt;/p&gt;
 &lt;p&gt;You are an experienced program manager with a strong background in content integrity, abuse, or risk programs at scale. You are skilled at setting requirements for detection and automation, translating policy and legal constraints into practical workflows and controls, and driving cross-functional partners to improve coverage, precision, and enforcement quality. You thrive in fast-paced environments and excel at turning operational signals into lasting improvements.&lt;/p&gt;
 &lt;h3&gt;RESPONSIBILITIES:&lt;/h3&gt;

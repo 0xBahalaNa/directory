@@ -70,8 +70,6 @@ Palantir builds the world&rsquo;s leading software for data-driven decisions and
 
 ### What We Value
 
-- Active US Security Clearance at or above the Top Secret level or willingness to obtain/upgrade to or above Top Secret.
-
 - Strong engineering background, preferred in fields such as Computer Science, Mathematics, Software Engineering, Physics.
 
 - Experience with logistics, materiel, sustainment, aviation, or readiness analysis is a plus.
@@ -89,6 +87,10 @@ Palantir builds the world&rsquo;s leading software for data-driven decisions and
 - Demonstrated ability to continuously learn, work independently, and make decisions with minimal supervision.
 
 - Willingness and interest to travel as needed.
+
+### What We Require
+
+- Active US Security Clearance at or above the Top Secret level.
 
 Salary
 

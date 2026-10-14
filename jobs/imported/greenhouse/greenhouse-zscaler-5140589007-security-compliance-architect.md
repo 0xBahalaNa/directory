@@ -9,9 +9,9 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/zscaler/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/zscaler/jobs/5140589007"
 apply_url: "https://job-boards.greenhouse.io/zscaler/jobs/5140589007"
-posted_date: "2026-10-08"
-expires_date: "2026-11-07"
-location: "Remote - USA; San Jose, California, USA"
+posted_date: "2026-10-14"
+expires_date: "2026-11-13"
+location: "Remote - USA; Santa Clara, California, USA"
 work_modes:
   - "Remote"
 job_types:

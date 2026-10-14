@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/xai/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/xai/jobs/5198194007"
 apply_url: "https://job-boards.greenhouse.io/xai/jobs/5198194007"
-posted_date: "2026-10-12"
-expires_date: "2026-11-11"
+posted_date: "2026-10-14"
+expires_date: "2026-11-13"
 location: " Palo Alto, CA; New York, NY; Washington, DC"
 work_modes:
   - "Hybrid / On-site"
@@ -33,8 +33,7 @@ compensation: "$152,000 - $258,000"
 summary: "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively..."
 ---
 
-&lt;div class="content-intro"&gt;&lt;p&gt;SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars.&nbsp;&lt;/p&gt;
-&lt;p&gt;SpaceXSI is building Super Intelligence to understand the universe and help expand humanity’s knowledge and capabilities. We work across the full Super Intelligence stack: compute (Colossus supercomputers), models (Grok), and applications (Grok Bot, Grok Build, Grok Imagine, Grok Voice, and X). We're creating a powerful flywheel where more compute trains better models, better models power more useful products, and what we learn from people using those products shapes what we build next.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;ABOUT THE ROLE:&lt;/strong&gt;&lt;/h3&gt;
+&lt;div class="content-intro"&gt;&lt;p&gt;SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars.&lt;br&gt;&lt;br&gt;SpaceXSI is building Super Intelligence to help humanity understand the universe. Our teams are building the full Super Intelligence stack: from our Colossus supercomputers, to Grok models, to our suite of applications, including Grok Bot, Grok Build, Grok Imagine, Grok Voice, and X. We're creating a powerful flywheel where more compute trains better models, better models power more useful products, and what we learn from people using those products shapes what we build next.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;ABOUT THE ROLE:&lt;/strong&gt;&lt;/h3&gt;
 &lt;div&gt;We are seeking an experienced Governance, Risk, and Compliance (GRC) Engineer focused on fintech and financial services regulation to help scale compliance for SpaceXSI and xMoney. As we operate deeper in regulated financial environments, maintaining a robust, transparent, and technically sound GRC program is critical. You will architect the systems and processes that automate trust — a pragmatic operator who understands that GRC exists to enable the business, balancing rigorous standards with the velocity of a high-growth company. The ideal candidate brings hands-on fintech compliance experience (PCI DSS, NYDFS, FFIEC), fluency in data privacy frameworks (GDPR, CCPA), and GRC engineering skills: Compliance-as-Code, continuous evidence collection, and deep partnership with engineering so controls are designed into the platform rather than bolted on after the fact.&lt;/div&gt;
 &lt;div&gt;&nbsp;&lt;/div&gt;
 &lt;div&gt;&lt;em&gt;This role may also include additional tasks and responsibilities as needed to support the team and evolving business priorities.&lt;/em&gt;&lt;/div&gt;

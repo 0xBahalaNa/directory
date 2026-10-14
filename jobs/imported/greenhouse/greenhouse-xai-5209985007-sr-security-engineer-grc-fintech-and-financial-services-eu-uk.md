@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/xai/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/xai/jobs/5209985007"
 apply_url: "https://job-boards.greenhouse.io/xai/jobs/5209985007"
-posted_date: "2026-10-12"
-expires_date: "2026-11-11"
+posted_date: "2026-10-14"
+expires_date: "2026-11-13"
 location: "Dublin, Ireland; London, England, United Kingdom"
 work_modes:
   - "Hybrid / On-site"
@@ -32,8 +32,7 @@ compensation: ""
 summary: "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively..."
 ---
 
-&lt;div class="content-intro"&gt;&lt;p&gt;SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars.&nbsp;&lt;/p&gt;
-&lt;p&gt;SpaceXSI is building Super Intelligence to understand the universe and help expand humanity’s knowledge and capabilities. We work across the full Super Intelligence stack: compute (Colossus supercomputers), models (Grok), and applications (Grok Bot, Grok Build, Grok Imagine, Grok Voice, and X). We're creating a powerful flywheel where more compute trains better models, better models power more useful products, and what we learn from people using those products shapes what we build next.&lt;/p&gt;&lt;/div&gt;&lt;h3 data-pm-slice="1 1 []"&gt;&lt;span style="font-family: arial, helvetica, sans-serif;"&gt;ABOUT THE ROLE:&lt;/span&gt;&lt;/h3&gt;
+&lt;div class="content-intro"&gt;&lt;p&gt;SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars.&lt;br&gt;&lt;br&gt;SpaceXSI is building Super Intelligence to help humanity understand the universe. Our teams are building the full Super Intelligence stack: from our Colossus supercomputers, to Grok models, to our suite of applications, including Grok Bot, Grok Build, Grok Imagine, Grok Voice, and X. We're creating a powerful flywheel where more compute trains better models, better models power more useful products, and what we learn from people using those products shapes what we build next.&lt;/p&gt;&lt;/div&gt;&lt;h3 data-pm-slice="1 1 []"&gt;&lt;span style="font-family: arial, helvetica, sans-serif;"&gt;ABOUT THE ROLE:&lt;/span&gt;&lt;/h3&gt;
 &lt;p&gt;We are seeking an experienced Governance, Risk, and Compliance (GRC) Engineer focused on European Union and United Kingdom information security and financial services regulation to help scale compliance for SpaceXSI and xMoney. As we expand deeper into regulated EU/UK markets, maintaining a robust, transparent, and technically sound information security GRC program is critical. You will architect the systems and processes that automate trust — a pragmatic operator who understands that GRC exists to enable the business, balancing rigorous standards with the velocity of a high-growth company. The ideal candidate brings hands-on experience with frameworks such as DORA, the EU AI Act, NIS2, and related EU/UK information security and operational resilience obligations, plus GRC engineering skills: Compliance-as-Code, continuous evidence collection, and deep partnership with engineering so controls are designed into the platform rather than bolted on after the fact.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;This role may also include additional tasks and responsibilities as needed to support the team and evolving business priorities. This position may require occasional travel.&lt;/em&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;span style="font-family: arial, helvetica, sans-serif;"&gt;RESPONSIBILITIES:&lt;/span&gt;&lt;/h3&gt;
