@@ -1,16 +1,16 @@
 ---
 title: "Legal & Compliance Analyst"
 company: "Qodeworld"
-slug: "workable-qodeworld-e0c3e1d303-legal-and-compliance-analyst"
+slug: "workable-qodeworld-f28d6bfb05-legal-and-compliance-analyst"
 status: "published"
 source: "Workable"
 sources:
   - "Workable"
 source_url: "https://apply.workable.com/qodeworld"
-role_url: "https://apply.workable.com/j/E0C3E1D303"
-apply_url: "https://apply.workable.com/j/E0C3E1D303/apply"
-posted_date: "2026-09-25"
-expires_date: "2026-10-25"
+role_url: "https://apply.workable.com/j/F28D6BFB05"
+apply_url: "https://apply.workable.com/j/F28D6BFB05/apply"
+posted_date: "2026-10-15"
+expires_date: "2026-11-14"
 location: "Federal Territory of Kuala Lumpur, Selangor, Malaysia"
 work_modes:
   - "Hybrid / On-site"
