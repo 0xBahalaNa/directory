@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/idme/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/idme/jobs/7907316003"
 apply_url: "https://job-boards.greenhouse.io/idme/jobs/7907316003"
-posted_date: "2026-10-13"
-expires_date: "2026-11-12"
+posted_date: "2026-10-14"
+expires_date: "2026-11-13"
 location: "United States (U.S.)"
 work_modes:
   - "Remote"
