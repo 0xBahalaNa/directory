@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/Method?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/Method/7dbff2aa-adc5-4e40-af02-2c42039bda52"
 apply_url: "https://jobs.ashbyhq.com/Method/7dbff2aa-adc5-4e40-af02-2c42039bda52/application"
-posted_date: "2026-10-15"
-expires_date: "2026-11-14"
+posted_date: "2026-10-16"
+expires_date: "2026-11-15"
 location: "New York, NY"
 work_modes:
   - "Remote"
