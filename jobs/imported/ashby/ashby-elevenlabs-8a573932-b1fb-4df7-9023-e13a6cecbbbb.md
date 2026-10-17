@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/elevenlabs?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/elevenlabs/8a573932-b1fb-4df7-9023-e13a6cecbbbb"
 apply_url: "https://jobs.ashbyhq.com/elevenlabs/8a573932-b1fb-4df7-9023-e13a6cecbbbb/application"
-posted_date: "2026-10-16"
-expires_date: "2026-11-15"
+posted_date: "2026-10-17"
+expires_date: "2026-11-16"
 location: "Mexico"
 work_modes:
   - "Remote"

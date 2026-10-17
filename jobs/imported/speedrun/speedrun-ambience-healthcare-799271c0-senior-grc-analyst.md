@@ -28,7 +28,7 @@ frameworks:
   - "HIPAA"
 languages:
   - "Rust"
-compensation: "$164K – $205K • Offers Equity"
+compensation: "$173,600 – $227,850 • Offers Equity"
 summary: "About Us: Here at Ambience, we never set out to be just another scribe. We’re building the AI intelligence platform that restores humanity to healthcare and drives meaningful ROI..."
 ---
 
