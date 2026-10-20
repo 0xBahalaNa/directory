@@ -25,7 +25,7 @@ frameworks:
   - "NIST 800-53"
 languages:
   - "Rust"
-compensation: "$110,000 - $175,000"
+compensation: "$135,000 - $200,000"
 summary: "The Role Our team members are subject matter experts in both cybersecurity and US Government policy. We&rsquo;re excited about generating creative solutions to ambiguous security..."
 ---
 
@@ -81,7 +81,7 @@ Palantir builds the world&rsquo;s leading software for data-driven decisions and
 
 Salary
 
-The estimated salary range for this position is estimated to be $110,000 - $175,000/year. Total compensation for this position may also include Restricted Stock units, sign-on bonus and other potential future incentives. Further note that total compensation for this position will be determined by each individual's relevant qualifications, work experience, skills, and other factors. This estimate excludes the value of any potential sign-on bonus; the value of any benefits offered; and the potential future value of any long-term incentives.
+The estimated salary range for this position is estimated to be $135,000 - $200,000/year. Total compensation for this position may also include Restricted Stock units, sign-on bonus and other potential future incentives. Further note that total compensation for this position will be determined by each individual's relevant qualifications, work experience, skills, and other factors. This estimate excludes the value of any potential sign-on bonus; the value of any benefits offered; and the potential future value of any long-term incentives.
 
 Our benefits aim to promote health and wellbeing across all areas of Palantirians’ lives. We work to continuously improve our offerings and listen to our community as we design and update them. The list below details our available benefits and some of the perks that can be enjoyed as an employee of Palantir Technologies.
 
