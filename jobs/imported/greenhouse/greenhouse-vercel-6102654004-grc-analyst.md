@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/vercel/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/vercel/jobs/6102654004"
 apply_url: "https://job-boards.greenhouse.io/vercel/jobs/6102654004"
-posted_date: "2026-10-08"
-expires_date: "2026-11-07"
+posted_date: "2026-10-20"
+expires_date: "2026-11-19"
 location: "Hybrid - San Francisco, New York City, London"
 work_modes:
   - "Hybrid / On-site"
@@ -35,9 +35,9 @@ summary: "About Vercel: Vercel is the agentic infrastructure company, freeing pe
 
 &lt;div class="content-intro"&gt;&lt;h2&gt;About Vercel:&lt;/h2&gt;
 &lt;p&gt;&lt;span data-sheets-root="1"&gt;Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span data-sheets-root="1"&gt;Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;About the role:&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;We are looking for a Governance, Risk and Compliance (GRC) Analyst who wants to build GRC with AI, and you do not need to be an engineer to do it. We encourage and equip you to use AI tooling to build automations for audit evidence and customer security questionnaires, alongside assessing AI tools and vendors and managing audits. This is a hybrid role based in San Francisco, New York City, or London with three days a week in the office.&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;What you’ll do:&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span data-sheets-root="1"&gt;Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;We are looking for a Governance, Risk and Compliance (GRC) Analyst who wants to build GRC with AI, and you do not need to be an engineer to do it. We encourage and equip you to use AI tooling to build automations for audit evidence and customer security questionnaires, alongside assessing AI tools and vendors and managing audits. This is a hybrid role based in San Francisco, New York City, or London, with three days a week in the office.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Assess AI tools and vendors against security, privacy, and compliance requirements, and run company compliance and ethics training&lt;/li&gt;
 &lt;li&gt;Maintain the internal controls behind ISO 27001, System and Organization Controls 2 (SOC 2), Health Insurance Portability and Accountability Act (HIPAA), and Payment Card Industry Data Security Standard (PCI DSS) compliance, and drive remediation to completion with documented progress&lt;/li&gt;
@@ -45,14 +45,14 @@ summary: "About Vercel: Vercel is the agentic infrastructure company, freeing pe
 &lt;li&gt;Manage annual audit deliverables, write treatment plans, and track completion across teams&lt;/li&gt;
 &lt;li&gt;Answer customer compliance inquiries and maintain customer-facing security and compliance documentation&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;&lt;strong&gt;What you need:&lt;/strong&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;strong&gt;What you need&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;3+ years supporting the audit lifecycle for SOC 2, ISO 27001, PCI DSS, or HIPAA in a cloud-based environment&lt;/li&gt;
 &lt;li&gt;Applied security or privacy controls to AI systems or AI vendors, such as model access, data handling, or third-party risk review&lt;/li&gt;
 &lt;li&gt;Built security policies and technical controls into the software development lifecycle (SDLC) with engineering partners&lt;/li&gt;
 &lt;li&gt;Led compliance projects across multiple business units and seniority levels&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;&lt;strong&gt;Bonus if you:&lt;/strong&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;strong&gt;Bonus if you&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Built an automation or internal tool, with code or AI coding tools, even outside an engineering role&lt;/li&gt;
 &lt;li&gt;Worked with AI governance frameworks such as ISO/IEC 42001 or the National Institute of Standards and Technology (NIST) AI Risk Management Framework&lt;/li&gt;

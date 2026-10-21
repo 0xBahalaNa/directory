@@ -15,7 +15,7 @@ location: "Sydney, Australia"
 work_modes:
   - "Hybrid / On-site"
 job_types:
-  - "Full-time"
+  - "Internship"
 specializations:
   - "Forward Deployed Engineering"
 frameworks: []
