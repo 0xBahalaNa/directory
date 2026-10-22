@@ -63,7 +63,7 @@ About the role: IT Compliance sits at the intersection of technology, regulation
 
 - Strong communication and stakeholder management skills, with the ability to clearly explain technical and regulatory requirements to non-technical audiences.
 
-- Fluent English is required; professional working proficiency in Arabic is mandatory (written and spoken).
+- Fluent English is required;
 
 - Strong analytical and risk-based mindset with high attention to detail.
 

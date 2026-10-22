@@ -94,6 +94,8 @@ What We're Looking For:
 
 - Relevant certifications a plus: CISSP, CISA, CISM, CRISC, CIPP/CIPM/CIPT, and/or AIGP.
 
+This is a remote position open to candidates located in the United States or Canada. We are unable to sponsor or take over sponsorship of employment visas or work permits for this position. Applicants must be currently authorized to work in the country from which they will perform the work.
+
 Why Join Us
 At Wrapbook, creativity meets technology — and not just in the product.
 In addition to a competitive salary and all the benefits you can expect from a fast-growing technology company, you’ll get access to a team of creative problem solvers and the chance to see your contributions make large impacts. Benefits include:

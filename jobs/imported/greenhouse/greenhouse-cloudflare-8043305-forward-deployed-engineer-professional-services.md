@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs?content=true"
 role_url: "https://boards.greenhouse.io/cloudflare/jobs/8043305?gh_jid=8043305"
 apply_url: "https://boards.greenhouse.io/cloudflare/jobs/8043305?gh_jid=8043305"
-posted_date: "2026-10-19"
-expires_date: "2026-11-18"
+posted_date: "2026-10-22"
+expires_date: "2026-11-21"
 location: "Distributed"
 work_modes:
   - "Hybrid / On-site"
@@ -61,8 +61,8 @@ summary: "About Us At Cloudflare, we are on a mission to help build a better Int
 &lt;/ul&gt;
 &lt;p class="p1"&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;/p&gt;
 &lt;ul class="ul1"&gt;
-&lt;li class="li1"&gt;For Germany based hires: Estimated annual salary is between €123,000 - €169,000. &lt;/li&gt;
-&lt;li class="li1"&gt;This role is eligible to earn incentive compensation under Cloudflare's Sales Compensation Plan. The estimated annual salary range includes the on-target incentive compensation that may be attained in this role under the Sales Compensation Plan. &lt;/li&gt;
+&lt;li class="li1"&gt;For Germany based hires: Estimated annual salary is between €123,000 - €169,000.&lt;/li&gt;
+&lt;li class="li1"&gt;This role is eligible to earn incentive compensation under Cloudflare's Sales Compensation Plan. The estimated annual salary range includes the on-target incentive compensation that may be attained in this role under the Sales Compensation Plan.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p class="p1"&gt;&lt;strong&gt;Equity&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;

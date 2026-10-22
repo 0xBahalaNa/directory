@@ -1,7 +1,7 @@
 ---
-title: "Sr. Security Engineer - GRC Frameworks & AI Governance"
+title: "Security Engineer - GRC Frameworks & AI Governance"
 company: "Xai"
-slug: "greenhouse-xai-5007261007-sr-security-engineer-grc-frameworks-and-ai-governance"
+slug: "greenhouse-xai-5007261007-security-engineer-grc-frameworks-and-ai-governance"
 status: "published"
 source: "Greenhouse"
 sources:
@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/xai/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/xai/jobs/5007261007"
 apply_url: "https://job-boards.greenhouse.io/xai/jobs/5007261007"
-posted_date: "2026-10-14"
-expires_date: "2026-11-13"
+posted_date: "2026-10-22"
+expires_date: "2026-11-21"
 location: " Palo Alto, CA; New York, NY; Washington, DC"
 work_modes:
   - "Hybrid / On-site"
@@ -28,17 +28,17 @@ frameworks:
   - "ISO 42001"
   - "NIST 800-53"
 languages: []
-compensation: "$152,000 - $258,000"
+compensation: "$100,000 - $198,000"
 summary: "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively..."
 ---
 
 &lt;div class="content-intro"&gt;&lt;p&gt;SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars.&lt;br&gt;&lt;br&gt;SpaceXSI is building Super Intelligence to help humanity understand the universe. Our teams are building the full Super Intelligence stack: from our Colossus supercomputers, to Grok models, to our suite of applications, including Grok Bot, Grok Build, Grok Imagine, Grok Voice, and X. We're creating a powerful flywheel where more compute trains better models, better models power more useful products, and what we learn from people using those products shapes what we build next.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;ABOUT THE ROLE:&lt;/strong&gt;&lt;/h3&gt;
-&lt;div&gt;We are seeking an experienced Governance, Risk, and Compliance (GRC) Engineer to own and scale our security and AI governance compliance posture as SpaceXSI grows. You will set the standards the organization builds to, design and implement controls, and automate the unglamorous parts of compliance so a fast-moving team can ship safely. The ideal candidate combines deep fluency across modern security and AI frameworks with GRC engineering skills: you translate control requirements into technical implementations, partner with engineers to bake compliance into architecture and CI/CD, and replace point-in-time checklist work with continuous, engineered assurance. You will collaborate across engineering, legal, product, and leadership to keep our AI systems audit-ready across enterprise, commercial, and public-sector environments.&lt;/div&gt;
+&lt;div&gt;We are seeking a mid-level Governance, Risk, and Compliance (GRC) Engineer to join our security and AI governance team at SpaceXSI. You will set the standards the organization builds to, design and implement controls, and automate the unglamorous parts of compliance so a fast-moving team can ship safely. The ideal candidate combines deep fluency across modern security and AI frameworks with GRC engineering skills: you translate control requirements into technical implementations, partner with engineers to bake compliance into architecture and CI/CD, and replace point-in-time checklist work with continuous, engineered assurance. You will collaborate across engineering, legal, product, and leadership to keep our AI systems audit-ready across enterprise, commercial, and public-sector environments.&lt;/div&gt;
 &lt;div&gt;&nbsp;&lt;/div&gt;
 &lt;div&gt;&lt;em&gt;This role may also include additional tasks and responsibilities as needed to support the team and evolving business priorities.&lt;/em&gt;&lt;/div&gt;
 &lt;h3&gt;&lt;strong&gt;RESPONSIBILITIES:&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Own and execute security compliance implementation and audits across core frameworks including SOC 2, NIST CSF, NIST SP 800-53, ISO 27001, ISO 42001, and the EU AI Act, including control design, mapping, gap assessment, evidence collection, and remediation tracking.&lt;/li&gt;
+&lt;li&gt;Execute security compliance implementation and audits across core frameworks including SOC 2, NIST CSF, NIST SP 800-53, ISO 27001, ISO 42001, and the EU AI Act, including control design, mapping, gap assessment, evidence collection, and remediation tracking.&lt;/li&gt;
 &lt;li&gt;Build and maintain Compliance-as-Code and continuous compliance capabilities — policy-as-code, automated control validation, continuous evidence pipelines, and monitoring integrated into development and deployment workflows — so the company can move fast without cutting corners.&lt;/li&gt;
 &lt;li&gt;Operate and extend GRC platforms (e.g., Vanta) as the system of record for controls, evidence, and audit readiness; integrate them with cloud, identity, and engineering tooling to reduce manual toil.&lt;/li&gt;
 &lt;li&gt;Partner with engineering and architecture to embed compliance requirements early in design reviews; translate framework obligations into clear technical control narratives that satisfy auditors without slowing delivery.&lt;/li&gt;
@@ -51,7 +51,7 @@ summary: "SpaceX was founded under the belief that a future where humanity is ou
 &lt;h3&gt;&lt;strong&gt;BASIC QUALIFICATIONS:&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Bachelor's degree in computer science, Information Security, Cybersecurity, or in an engineering/STEM field.&lt;/li&gt;
-&lt;li&gt;8+ years of experience in GRC, security compliance, or technology audit roles with hands-on GRC engineering responsibilities.&lt;/li&gt;
+&lt;li&gt;3+ years of experience in GRC, security compliance, or technology audit roles with hands-on GRC engineering responsibilities.&lt;/li&gt;
 &lt;li&gt;Demonstrated experience implementing and maintaining security compliance frameworks in cloud environments (AWS, GCP, or Azure).&lt;/li&gt;
 &lt;li&gt;Expert-level working knowledge of several of the following: SOC 2, NIST CSF, NIST SP 800-53, ISO 27001, and ISO 42001 — including building and running controls, not only reading the frameworks.&lt;/li&gt;
 &lt;li&gt;Experience with Compliance-as-Code practices and GRC automation tooling (e.g., Vanta, Drata, or similar), with a bias toward continuous monitoring.&lt;/li&gt;
@@ -59,7 +59,7 @@ summary: "SpaceX was founded under the belief that a future where humanity is ou
 &lt;/ul&gt;
 &lt;h3&gt;&lt;strong&gt;PREFERRED SKILLS AND EXPERIENCE:&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;10+ years of security compliance, GRC engineering, or technology audit-related experience.&lt;/li&gt;
+&lt;li&gt;5+ years of security compliance, GRC engineering, or technology audit-related experience.&lt;/li&gt;
 &lt;li&gt;Hands-on experience implementing technical controls (e.g., IAM, logging and monitoring, encryption, infrastructure hardening) and integrating compliance checks into CI/CD pipelines.&lt;/li&gt;
 &lt;li&gt;Experience in the tech or AI/ML industry, particularly with startups or high-growth product organizations.&lt;/li&gt;
 &lt;li&gt;Working knowledge of HIPAA privacy and security rules (bonus), ideally mapped into a SOC 2 or ISO-certified control environment.&lt;/li&gt;
@@ -72,7 +72,7 @@ summary: "SpaceX was founded under the belief that a future where humanity is ou
 &lt;li&gt;Experience with public sector or federal compliance programs (e.g., FedRAMP, NIST 800-171, CMMC) is a plus.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;&lt;strong&gt;COMPENSATION AND BENEFITS:&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;span style="font-weight: 400;"&gt;$152,000 - $258,000 USD&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight: 400;"&gt;$100,000 - $198,000 USD&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Base salary is just one part of our total rewards package at SpaceXSI, which also includes equity, comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short &amp; long-term disability insurance, life insurance, and various other discounts and perks.&lt;/p&gt;
 &lt;h3&gt;ITAR REQUIREMENTS:&lt;/h3&gt;
 &lt;ul&gt;

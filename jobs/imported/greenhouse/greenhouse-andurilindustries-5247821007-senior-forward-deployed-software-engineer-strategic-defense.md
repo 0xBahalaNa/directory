@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs?content=true"
 role_url: "https://boards.greenhouse.io/andurilindustries/jobs/5247821007?gh_jid=5247821007"
 apply_url: "https://boards.greenhouse.io/andurilindustries/jobs/5247821007?gh_jid=5247821007"
-posted_date: "2026-10-05"
-expires_date: "2026-11-04"
+posted_date: "2026-10-21"
+expires_date: "2026-11-20"
 location: "Costa Mesa, California, United States; Washington, District of Columbia, United States"
 work_modes:
   - "Hybrid / On-site"
@@ -64,7 +64,7 @@ summary: "Anduril Industries is a defense technology company with a mission to t
 &lt;li&gt;Network+ and Linux+ or equivalent experience preferred&lt;/li&gt;
 &lt;li&gt;Prior military or overseas contracting experience&lt;/li&gt;
 &lt;li&gt;Experience with Kubernetes&lt;/li&gt;
-&lt;/ul&gt;&lt;div class="content-pay-transparency"&gt;&lt;div class="pay-input"&gt;&lt;div class="title"&gt;US Salary Range&lt;/div&gt;&lt;div class="pay-range"&gt;&lt;span&gt;$191,000&lt;/span&gt;&lt;span class="divider"&gt;&mdash;&lt;/span&gt;&lt;span&gt;$253,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="content-conclusion"&gt;&lt;p&gt;&lt;span data-contrast="auto"&gt;The salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only. Actual salary offer may vary based on (but not limited to) work experience, education and/or training, critical skills, and/or business considerations. Highly competitive equity grants are included in the majority of full time offers; and are considered part of Anduril's total compensation package. Additionally, Anduril offers top-tier benefits for full-time employees, including:&lt;/span&gt;&lt;span data-ccp-props="{"134233117":false,"134233118":false,"335551550":0,"335551620":0,"335559738":240,"335559739":240}"&gt;&nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;/ul&gt;&lt;div class="content-pay-transparency"&gt;&lt;div class="pay-input"&gt;&lt;div class="title"&gt;US Salary Range&lt;/div&gt;&lt;div class="pay-range"&gt;&lt;span&gt;$191,000&lt;/span&gt;&lt;span class="divider"&gt;&mdash;&lt;/span&gt;&lt;span&gt;$254,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="content-conclusion"&gt;&lt;p&gt;&lt;span data-contrast="auto"&gt;The salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only. Actual salary offer may vary based on (but not limited to) work experience, education and/or training, critical skills, and/or business considerations. Highly competitive equity grants are included in the majority of full time offers; and are considered part of Anduril's total compensation package. Additionally, Anduril offers top-tier benefits for full-time employees, including:&lt;/span&gt;&lt;span data-ccp-props="{"134233117":false,"134233118":false,"335551550":0,"335551620":0,"335559738":240,"335559739":240}"&gt;&nbsp;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&nbsp;&lt;/p&gt;
 &lt;h3 class="detailElios"&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;span data-contrast="auto"&gt;At Anduril, we invest in our people. Our comprehensive, competitive benefits package (available at little to no cost to employees) ensures you’re supported in health, recovery, and whatever comes next.&nbsp;&lt;/span&gt;&lt;em&gt;&lt;span data-contrast="auto"&gt;For more information, &lt;a href="https://www.anduril.com/careers"&gt;Explore Our Benefits&lt;/a&gt;.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
