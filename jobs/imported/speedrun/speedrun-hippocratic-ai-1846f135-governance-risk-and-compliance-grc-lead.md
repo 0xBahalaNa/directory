@@ -1,14 +1,14 @@
 ---
-title: "Governance Risk Compliance"
+title: "Governance, Risk, and Compliance (GRC) Lead"
 company: "Hippocratic AI"
-slug: "speedrun-hippocratic-ai-1846f135-governance-risk-compliance"
+slug: "speedrun-hippocratic-ai-1846f135-governance-risk-and-compliance-grc-lead"
 status: "published"
 source: "a16z Speedrun"
 sources:
   - "a16z Speedrun"
 source_url: "https://speedrun-talent-network.com/api/v1/jobs"
-role_url: "https://speedrun-talent-network.com/jobs/governance-risk-compliance-hippocratic-ai-1846f135?utm_source=grcengclub&utm_medium=agent"
-apply_url: "https://speedrun-talent-network.com/jobs/governance-risk-compliance-hippocratic-ai-1846f135?utm_source=grcengclub&utm_medium=agent"
+role_url: "https://speedrun-talent-network.com/jobs/governance-risk-and-compliance-grc-lead-hippocratic-ai-1846f135?utm_source=grcengclub&utm_medium=agent"
+apply_url: "https://speedrun-talent-network.com/jobs/governance-risk-and-compliance-grc-lead-hippocratic-ai-1846f135?utm_source=grcengclub&utm_medium=agent"
 posted_date: "2026-10-16"
 expires_date: "2026-11-15"
 location: "Menlo Park, CA"

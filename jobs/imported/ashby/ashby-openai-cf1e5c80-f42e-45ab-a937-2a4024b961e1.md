@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/openai?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/openai/cf1e5c80-f42e-45ab-a937-2a4024b961e1"
 apply_url: "https://jobs.ashbyhq.com/openai/cf1e5c80-f42e-45ab-a937-2a4024b961e1/application"
-posted_date: "2026-10-22"
-expires_date: "2026-11-21"
+posted_date: "2026-10-23"
+expires_date: "2026-11-22"
 location: "San Francisco"
 work_modes:
   - "Hybrid / On-site"
@@ -54,6 +54,7 @@ We’re looking for people who bring:
 - Low ego outcome oriented mindset to achieve the product assurance goal required for OAI’s mission
 - Strong technical cross-functional leadership and don’t work in a vacuum - they influence, align and direct partner teams to achieve product assurance goals.
 - Exercise sound judgement in making high-stakes decisions related to product launch risk and controls.
+- Curiosity about using AI and agents to streamline product assurance workflows while preserving reliable evidence and sound judgment.
 
 You’ll be responsible for:
 

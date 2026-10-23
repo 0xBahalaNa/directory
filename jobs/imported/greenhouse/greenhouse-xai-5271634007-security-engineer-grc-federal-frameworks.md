@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/xai/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/xai/jobs/5271634007"
 apply_url: "https://job-boards.greenhouse.io/xai/jobs/5271634007"
-posted_date: "2026-10-21"
-expires_date: "2026-11-20"
+posted_date: "2026-10-22"
+expires_date: "2026-11-21"
 location: " Palo Alto, CA; Austin, TX; New York, NY; Washington, DC"
 work_modes:
   - "Hybrid / On-site"
@@ -58,6 +58,7 @@ summary: "SpaceX was founded under the belief that a future where humanity is ou
 &lt;h3&gt;&lt;span style="font-family: arial, helvetica, sans-serif;"&gt;PREFERRED SKILLS AND EXPERIENCE:&lt;/span&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;5+ years of security compliance or technology audit-related experience.&lt;/li&gt;
+&lt;li&gt;Active Top Secret (TS) clearance preferred.&lt;/li&gt;
 &lt;li&gt;Hands-on experience implementing technical controls (e.g., IAM, logging and monitoring, encryption, infrastructure hardening) and integrating compliance checks into CI/CD pipelines.&lt;/li&gt;
 &lt;li&gt;Exceptional analytical, problem-solving, organizational, and project management skills, with the ability to balance innovation, oversight, and taking projects from conception to launch.&lt;/li&gt;
 &lt;li&gt;Ability to evaluate control objectives with IT configurations.&lt;/li&gt;

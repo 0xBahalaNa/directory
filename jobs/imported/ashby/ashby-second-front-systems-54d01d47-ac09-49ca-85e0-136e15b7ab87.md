@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/Second-Front-Systems?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/Second-Front-Systems/54d01d47-ac09-49ca-85e0-136e15b7ab87"
 apply_url: "https://jobs.ashbyhq.com/Second-Front-Systems/54d01d47-ac09-49ca-85e0-136e15b7ab87/application"
-posted_date: "2026-10-22"
-expires_date: "2026-11-21"
+posted_date: "2026-10-23"
+expires_date: "2026-11-22"
 location: "Remote"
 work_modes:
   - "Remote"
@@ -53,9 +53,7 @@ What You'll Do
 
 • Travel to client locations as needed for complex system deployments, updates and troubleshooting during high impact operational exercises, integration and training events.
 
-What You Bring
-
-• 7-10 years of experience in systems deployment, DevSecOps, or platform engineering in regulated/classified government environments, including demonstrated ownership of complex, mission-critical deployments (not just support/execution).
+What You Bring • 7-10 years of experience in systems deployment, DevSecOps, or platform engineering in regulated/classified government environments, including demonstrated ownership of complex, mission-critical deployments (not just support/execution).
 
 • Multi-cloud, government-authorized infrastructure: Hands-on experience deploying and hardening workloads across AWS GovCloud/Commercial, Microsoft Azure Government, and Google Cloud, including Infrastructure-as-Code (Terraform, CloudFormation, or equivalent) tailored to DoD Impact Level 2–6 and JWICS environments.
 
@@ -69,7 +67,9 @@ What You Bring
 
 • Strong scripting/automation ability in Go, Rust, Python, or Bash, with a track record of building internal tooling to remove manual toil from security and operations workflows.
 
-• Active DoD Top Secret/SCI clearance (or eligibility, with active clearance strongly preferred); U.S. citizenship required. Preferred The base salary for this position will fall between $160,000 and $200,000. Your ultimate compensation will be determined by professional background, technical proficiency, seniority, and regional cost factors. Furthermore, this opportunity includes potential eligibility for equity awards and discretionary bonuses, rounding out a comprehensive total rewards offering.
+• Active DoD Top Secret/SCI clearance (or eligibility, with active clearance strongly preferred); U.S. citizenship required.
+
+Preferred The base salary for this position will fall between $160,000 and $200,000. Your ultimate compensation will be determined by professional background, technical proficiency, seniority, and regional cost factors. Furthermore, this opportunity includes potential eligibility for equity awards and discretionary bonuses, rounding out a comprehensive total rewards offering.
 
 ## Success at 2F Looks Like:
 

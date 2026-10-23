@@ -32,10 +32,10 @@ languages:
   - "PowerShell"
   - "Rust"
 compensation: "$80,000 - $134,000"
-summary: "We&rsquo;re looking for a technically strong, self-starter Consultant to join our FedRAMP Assessment team. This role is for someone who can open a configuration file, command..."
+summary: "We're looking for a technically strong, self-starter Consultant to join our FedRAMP Assessment team. This role is for someone who can open a configuration file, command output,..."
 ---
 
-We&rsquo;re looking for a technically strong, self-starter Consultant to join our FedRAMP Assessment team. This role is for someone who can open a configuration file, command output, log extract, scan report, or network diagram and understand what it actually shows &ndash; and who, when they encounter an unfamiliar product, service, or setting, independently researches the vendor documentation to determine what it means for the control being assessed. The Consultant will apply that technical depth to FedRAMP assessments and, with mentoring from senior assessors, develop into a FedRAMP Assessor.
+We're looking for a technically strong, self-starter Consultant to join our FedRAMP Assessment team. This role is for someone who can open a configuration file, command output, log extract, scan report or network diagram and understand what it actually shows and who, when they encounter an unfamiliar product, service, or setting, independently researches the vendor documentation to determine what it means for the control being assessed. The Consultant will apply that technical depth to FedRAMP assessments and, with mentoring from senior assessors, develop into a FedRAMP Assessor.
 
 About Coalfire
 
@@ -47,7 +47,59 @@ We are thought leaders, consultants, and cybersecurity experts, but above all el
 
 ### What You'll Do
 
-- Work collaboratively with a team of assessors on federal compliance assessments (e.g., FedRAMP, NIST 800-171, FISMA) and assist with the planning of assessment for clients - Review technical artifacts at a detailed level – configuration files and exports, system and console settings, command-line output, logs, vulnerability scan results, firewall rulesets, and network/boundary/data flow diagrams – and determine whether they demonstrate the stated control implementation - Review infrastructure as code templates, CI/CD pipeline configurations, and deployment scripts to validate configuration management, change control, and enforcement of secure baselines - Use scripting to parse and analyze large artifact sets (e.g., configuration exports, logs, inventories, and scan data) to support control testing - Independently research unfamiliar technologies, products, and configuration settings using vendor documentation, knowledge bases, and hardening guides to determine what a setting does, what the secure configuration is, and how it relates to the control requirement - Analyze how network traffic flows and how common services (e.g., DNS, NTP, directory services, authentication, SSH, TLS, email, logging, load balancing, proxy, VPN) are implemented within the client environment, and identify gaps between documentation and actual implementation - Evaluate whether artifacts are complete, current, and in scope for the authorization boundary; appropriately mark artifacts requiring follow-up or additional clarification - Identify when an artifact is insufficient and clearly explain to clients what specific evidence is needed and why - Review and assess information system security plans to ensure control implementation statements are accurate and supported by technical evidence - Autonomously leads interview and inquiry walkthroughs, including technical walkthroughs with client engineers and system administrators, to determine the conformity of environments against stated requirements - Pursue and corroborate conclusions derived from inquiry procedures with client while ensuring diligent interview notes are captured - Execute, examine, interview and test procedures in accordance with the appropriate control - Assess security vulnerabilities against the appropriate security frameworks - Draft audit observations that sufficiently address both the required objectives of the regulatory body and the complexity of the client environment - First-level reviewer of drafted audit planning and reporting materials - Prepare and review assessment reports - Develop toward FedRAMP Assessor responsibilities by progressively taking ownership of control families and assessment workstreams under the guidance of senior assessors - Educate and interpret compliance activities for clients - Manage priorities and tasks to achieve delivery utilization targets - Ensure quality products and services are delivered on time per Coalfire quality standards - Continuous professional development; maintain industry specific certifications, depth of knowledge, credentials, and designations - Collaborate with project managers, quality management and/or other delivery team members to drive customer satisfaction and meet project deliverables - Establish and maintain positive collaborative relationships with clients and stakeholders - Identify upsell and cross sell opportunities; escalate to appropriate leadership - Understand how to apply quality standards and adhere to a minimum benchmark for quality assurance throughout the documentation of each work product or deliverable - Provide advice to customers on issues affecting the scope of work in a manner that provides additional value - Develop documentation and author recommendations associated with findings on how to improve the customer’s security posture in accordance with appropriate controls
+- Work collaboratively with a team of assessors on federal compliance assessments (e.g., FedRAMP, NIST 800-171, FISMA) and assist with the planning of assessment for clients
+
+- Review technical artifacts at a detailed level – configuration files and exports, system and console settings, command-line output, logs, vulnerability scan results, firewall rulesets, and network/boundary/data flow diagrams – and determine whether they demonstrate the stated control implementation
+
+- Review infrastructure as code templates, CI/CD pipeline configurations, and deployment scripts to validate configuration management, change control, and enforcement of secure baselines
+
+- Use scripting to parse and analyze large artifact sets (e.g., configuration exports, logs, inventories, and scan data) to support control testing
+
+- Independently research unfamiliar technologies, products, and configuration settings using vendor documentation, knowledge bases, and hardening guides to determine what a setting does, what the secure configuration is, and how it relates to the control requirement
+
+- Analyze how network traffic flows and how common services (e.g., DNS, NTP, directory services, authentication, SSH, TLS, email, logging, load balancing, proxy, VPN) are implemented within the client environment, and identify gaps between documentation and actual implementation
+
+- Evaluate whether artifacts are complete, current, and in scope for the authorization boundary; appropriately mark artifacts requiring follow-up or additional clarification
+
+- Identify when an artifact is insufficient and clearly explain to clients what specific evidence is needed and why
+
+- Review and assess information system security plans to ensure control implementation statements are accurate and supported by technical evidence
+
+- Autonomously leads interview and inquiry walkthroughs, including technical walkthroughs with client engineers and system administrators, to determine the conformity of environments against stated requirements
+
+- Pursue and corroborate conclusions derived from inquiry procedures with client while ensuring diligent interview notes are captured
+
+- Execute, examine, interview and test procedures in accordance with the appropriate control
+
+- Assess security vulnerabilities against the appropriate security frameworks
+
+- Draft audit observations that sufficiently address both the required objectives of the regulatory body and the complexity of the client environment
+
+- First-level reviewer of drafted audit planning and reporting materials
+
+- Prepare and review assessment reports
+
+- Develop toward FedRAMP Assessor responsibilities by progressively taking ownership of control families and assessment workstreams under the guidance of senior assessors
+
+- Educate and interpret compliance activities for clients
+
+- Manage priorities and tasks to achieve delivery utilization targets
+
+- Ensure quality products and services are delivered on time per Coalfire quality standards
+
+- Continuous professional development; maintain industry specific certifications, depth of knowledge, credentials, and designations
+
+- Collaborate with project managers, quality management and/or other delivery team members to drive customer satisfaction and meet project deliverables
+
+- Establish and maintain positive collaborative relationships with clients and stakeholders
+
+- Identify upsell and cross sell opportunities; escalate to appropriate leadership
+
+- Understand how to apply quality standards and adhere to a minimum benchmark for quality assurance throughout the documentation of each work product or deliverable
+
+- Provide advice to customers on issues affecting the scope of work in a manner that provides additional value
+
+- Develop documentation and author recommendations associated with findings on how to improve the customer’s security posture in accordance with appropriate controls
 
 ### What You'll Bring
 
