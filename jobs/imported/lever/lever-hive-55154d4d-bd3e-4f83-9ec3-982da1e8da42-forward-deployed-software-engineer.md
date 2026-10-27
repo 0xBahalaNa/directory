@@ -1,16 +1,16 @@
 ---
 title: "Forward Deployed Software Engineer"
 company: "Hive"
-slug: "lever-hive-e91c1a5a-fd0d-434e-a912-017e6231ce50-forward-deployed-software-engineer"
+slug: "lever-hive-55154d4d-bd3e-4f83-9ec3-982da1e8da42-forward-deployed-software-engineer"
 status: "published"
 source: "Lever"
 sources:
   - "Lever"
 source_url: "https://jobs.lever.co/hive"
-role_url: "https://jobs.lever.co/hive/e91c1a5a-fd0d-434e-a912-017e6231ce50"
-apply_url: "https://jobs.lever.co/hive/e91c1a5a-fd0d-434e-a912-017e6231ce50/apply"
-posted_date: "2026-02-13"
-expires_date: "2026-03-15"
+role_url: "https://jobs.lever.co/hive/55154d4d-bd3e-4f83-9ec3-982da1e8da42"
+apply_url: "https://jobs.lever.co/hive/55154d4d-bd3e-4f83-9ec3-982da1e8da42/apply"
+posted_date: "2026-10-15"
+expires_date: "2026-11-14"
 location: "San Francisco"
 work_modes:
   - "Hybrid / On-site"
@@ -27,10 +27,16 @@ languages:
   - "JavaScript"
   - "Rust"
 compensation: "$120,000 - $200,000"
-summary: "About Hive Hive is the leading provider of cloud-based AI solutions to understand, search, and generate content, and is trusted by hundreds of the world's largest and most..."
+summary: "About Deploy Deploy is an intelligence infrastructure platform that gives developers and enterprises access to open source and proprietary AI models. For leading open source LLMs,..."
 ---
 
-About Hive Hive is the leading provider of cloud-based AI solutions to understand, search, and generate content, and is trusted by hundreds of the world's largest and most innovative organizations. The company empowers developers with a portfolio of best-in-class, pre-trained AI models, serving billions of customer API requests every month. Hive also offers turnkey software applications powered by proprietary AI models and datasets, enabling breakthrough use cases across industries. Together, Hive&rsquo;s solutions are transforming content moderation, deepfake detection, brand protection, sponsorship measurement and more. Hive has raised over $120M in capital from leading investors, including General Catalyst, 8VC, Glynn Capital, Bain & Company, Visa Ventures, and others. We have over 250 employees globally in our San Francisco, Seattle, and Delhi offices. Please reach out if you are interested in joining the future of AI! The Role At Hive, Forward Deployed Software Engineers utilize technical expertise of software engineering to directly tackle customer challenges and pain points. This role will serve as the primary point of contact for many of our enterprise customers, supporting them to achieve success with Hive&rsquo;s API solutions and AI platforms. As a Forward Deployed Software Engineer, you will work alongside our customers to translate business and product ideas into engineering solutions, efficiently understand and resolve technical customer issues, and architect solutions that help improve the adoption of Hive&rsquo;s products. You will work closely with Sales, Product, Engineering, and Operations, and build full-scale integrations to drive exceptional customer outcomes. This is a rare opportunity to work on the frontlines and directly execute high-impact projects for some of the largest enterprises.
+About Deploy
+
+Deploy is an intelligence infrastructure platform that gives developers and enterprises access to open source and proprietary AI models. For leading open source LLMs, Deploy operates an optimized model inference engine that keeps costs and latency low while maintaining high throughout. Deploy also offers a set of proprietary AI models that address challenges in content safety, AI & deepfake detection, sponsorship intelligence, and IP & publicity protection. Trusted by the world's largest and most innovative organizations, Deploy's solutions unlock high-performance AI model inference at production scale. Deploy has raised more than $200M from leading investors, including Tomales Bay Capital, General Catalyst, 8VC, Glynn Capital, Bain & Company, Visa Ventures, and others. The company has more than 250 employees across offices in San Francisco, Seattle, New York, and Delhi.
+
+The Role
+
+At Deploy, Forward Deployed Software Engineers utilize technical expertise of software engineering to directly tackle customer challenges and pain points. This role will serve as the primary point of contact for many of our enterprise customers, supporting them to achieve success with Deploy's API solutions and AI platforms. As a Forward Deployed Software Engineer, you will work alongside our customers to translate business and product ideas into engineering solutions, efficiently understand and resolve technical customer issues, and architect solutions that help improve the adoption of Deploy's products. You will work closely with Sales, Product, Engineering, and Operations, and build full-scale integrations to drive exceptional customer outcomes. This is a rare opportunity to work on the frontlines and directly execute high-impact projects for some of the largest enterprises.
 
 ### Responsibilities
 
@@ -72,8 +78,8 @@ About Hive Hive is the leading provider of cloud-based AI solutions to understan
 
 Who We Are
 
-We are a group of ambitious individuals who are passionate about creating a revolutionary AI company. At Hive, you will have a steep learning curve and an opportunity to contribute to one of the fastest growing AI start-ups in San Francisco. The work you do here will have a noticeable and direct impact on the development of the company.
+We are a group of ambitious individuals who are passionate about creating a revolutionary AI company. At Deploy, you will have a steep learning curve and an opportunity to contribute to one of the fastest growing AI start-ups in San Francisco. The work you do here will have a noticeable and direct impact on the development of the company.
 
-Thank you for your interest in Hive and we hope to meet you soon!
+Thank you for your interest in Deploy and we hope to meet you soon!
 
 The current expected base salary for this position ranges from $120,000 - $200,000. Actual compensation may vary depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the total compensation package that is provided to compensate and recognize employees for their work; stock options may be offered in addition to the range provided here.

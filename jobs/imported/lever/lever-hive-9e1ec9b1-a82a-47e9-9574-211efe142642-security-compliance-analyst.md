@@ -1,16 +1,16 @@
 ---
 title: "Security Compliance Analyst"
 company: "Hive"
-slug: "lever-hive-bcb73357-34dc-4c0c-8b20-ad4abdb69967-security-compliance-analyst"
+slug: "lever-hive-9e1ec9b1-a82a-47e9-9574-211efe142642-security-compliance-analyst"
 status: "published"
 source: "Lever"
 sources:
   - "Lever"
 source_url: "https://jobs.lever.co/hive"
-role_url: "https://jobs.lever.co/hive/bcb73357-34dc-4c0c-8b20-ad4abdb69967"
-apply_url: "https://jobs.lever.co/hive/bcb73357-34dc-4c0c-8b20-ad4abdb69967/apply"
-posted_date: "2021-04-17"
-expires_date: "2021-05-17"
+role_url: "https://jobs.lever.co/hive/9e1ec9b1-a82a-47e9-9574-211efe142642"
+apply_url: "https://jobs.lever.co/hive/9e1ec9b1-a82a-47e9-9574-211efe142642/apply"
+posted_date: "2026-10-15"
+expires_date: "2026-11-14"
 location: "San Francisco"
 work_modes:
   - "Hybrid / On-site"
@@ -28,22 +28,20 @@ frameworks:
 languages:
   - "Rust"
 compensation: "$110,000 - $140,000"
-summary: "About Hive Hive is the leading provider of cloud-based AI solutions to understand, search, and generate content, and is trusted by hundreds of the world's largest and most..."
+summary: "About Deploy Deploy is an intelligence infrastructure platform that gives developers and enterprises access to open source and proprietary AI models. For leading open source LLMs,..."
 ---
 
-About Hive
+About Deploy
 
-Hive is the leading provider of cloud-based AI solutions to understand, search, and generate content, and is trusted by hundreds of the world's largest and most innovative organizations. The company empowers developers with a portfolio of best-in-class, pre-trained AI models, serving billions of customer API requests every month. Hive also offers turnkey software applications powered by proprietary AI models and datasets, enabling breakthrough use cases across industries. Together, Hive&rsquo;s solutions are transforming content moderation, brand protection, sponsorship measurement, context-based ad targeting, and more.
-
-Hive has raised over $120M in capital from leading investors, including General Catalyst, 8VC, Glynn Capital, Bain & Company, Visa Ventures, and others. We have over 250 employees globally in our San Francisco, Seattle, and Delhi offices. Please reach out if you are interested in joining the future of AI!
+Deploy is an intelligence infrastructure platform that gives developers and enterprises access to open source and proprietary AI models. For leading open source LLMs, Deploy operates an optimized model inference engine that keeps costs and latency low while maintaining high throughout. Deploy also offers a set of proprietary AI models that address challenges in content safety, AI & deepfake detection, sponsorship intelligence, and IP & publicity protection. Trusted by the world's largest and most innovative organizations, Deploy's solutions unlock high-performance AI model inference at production scale. Deploy has raised more than $200M from leading investors, including Tomales Bay Capital, General Catalyst, 8VC, Glynn Capital, Bain & Company, Visa Ventures, and others. The company has more than 250 employees across offices in San Francisco, Seattle, New York, and Delhi.
 
 Security Compliance Analyst
 
-We are looking for a highly motivated individual with information security governance and compliance experience to be part of our team! As a Security Compliance Analyst at Hive, you will collaborate with engineers and auditors to meet security compliance controls as well as enhance security compliance capabilities. You will be responsible for addressing auditors&rsquo; requests and performing on call operations. Our ideal candidate should be able to assist in running the risk management program that is managed by the Information Security team.
+We are looking for a highly motivated individual with information security governance and compliance experience to be part of our team! As a Security Compliance Analyst at Deploy, you will collaborate with engineers and auditors to meet security compliance controls as well as enhance security compliance capabilities. You will be responsible for addressing auditors&rsquo; requests and performing on call operations. Our ideal candidate should be able to assist in running the risk management program that is managed by the Information Security team.
 
 ### Responsibilities
 
-- Manage Hive’s current risk management program
+- Manage Deploy's current risk management program
 
 - Manage external and internal audits, including reviewing materials that require attention for accuracy and properly adhering to regulatory expectations.
 
@@ -63,7 +61,7 @@ We are looking for a highly motivated individual with information security gover
 
 - Adhere to and champion policies, guidelines and procedures pertaining to the protection of information assets
 
-- Manage external security, privacy, and compliance requirements, including both internal requirements for vendors as well as external requirements placed on Hive
+- Manage external security, privacy, and compliance requirements, including both internal requirements for vendors as well as external requirements placed on Deploy
 
 - Report actual or suspected security and/or policy violations/breaches to an appropriate authority
 
@@ -97,8 +95,8 @@ We are looking for a highly motivated individual with information security gover
 
 Who We Are
 
-We are a group of ambitious individuals who are passionate about creating a revolutionary AI company. At Hive, you will have a steep learning curve and an opportunity to contribute to one of the fastest growing AI start-ups in San Francisco. The work you do here will have a noticeable and direct impact on the development of the company.
+We are a group of ambitious individuals who are passionate about creating a revolutionary AI company. At Deploy, you will have a steep learning curve and an opportunity to contribute to one of the fastest growing AI start-ups in San Francisco. The work you do here will have a noticeable and direct impact on the development of the company.
 
-Thank you for your interest in Hive and we hope to meet you soon!
+Thank you for your interest in Deploy and we hope to meet you soon!
 
 The current expected base salary for this position ranges from $110,000 - $140,000. Actual compensation may vary depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the total compensation package that is provided to compensate and recognize employees for their work; stock options may be offered in addition to the range provided here.

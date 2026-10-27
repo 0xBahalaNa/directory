@@ -24,11 +24,11 @@ specializations:
 frameworks: []
 languages: []
 compensation: "$115K – $168K • Offers Equity"
-summary: "About Radiant Radiant is an El Segundo, CA-based startup building the world’s first mass-produced, portable nuclear microreactors. Rising energy demand is straining the U.S. grid..."
+summary: "About Radiant Radiant is an El Segundo, CA-based company building the world's only mass-produced, transportable nuclear microreactors. The U.S. grid is under growing strain, with..."
 ---
 
 About Radiant
-Radiant is an El Segundo, CA-based startup building the world’s first mass-produced, portable nuclear microreactors. Rising energy demand is straining the U.S. grid and driving up utility costs, emissions, and interconnection backlogs. Radiant decentralizes energy, producing power close to where it’s used. Its first reactor, Kaleidos, is a factory-built, 1-megawatt, fail-safe microreactor that can be transported by land, sea, or air and runs up to 5 years without refueling. Deployed locally without a decade-long build or permitting fight, Kaleidos provides independent power for critical infrastructure like military bases, data centers, hospitals, and remote sites. Founded in 2020, Radiant is under contract to deliver power to the U.S. Army, Air Force, Navy, and has pre-order agreements with Equinix, with deployments beginning in 2028.
+Radiant is an El Segundo, CA-based company building the world's only mass-produced, transportable nuclear microreactors. The U.S. grid is under growing strain, with power demand accelerating, driving higher utility costs, rising carbon emissions, and interconnection backlogs. Radiant has a solution, transportable, on-site power. Our first reactor, Kaleidos, is 1 megawatt: small enough to be factory-built, transported by land, sea, or air, and deployed wherever power is needed. 1 MW can power 1000 homes for five years. Ship it back and we refuel for a 20 year operating life. We made energy a product that can be used for critical infrastructure like military bases, data centers, hospitals, and remote sites, as well as the commercial main street businesses that keep America running.  Founded in 2020, Radiant is under contract to deliver power to the U.S. Army, Navy and Air Force and has signed pre-order agreements with Equinix, with deployments beginning in 2028.
 
 About the Role
 Radiant is scaling fast - expanding factory operations, standing up multi-entity structures, and taking on both government and commercial deployments. This role will manage our liability exposure in a centralized manner - owning programs across all teams and building out our risk infrastructure.
